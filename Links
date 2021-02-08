@@ -1,0 +1,7 @@
+1. Hyperparater OPtimization with Optuna: https://medium.com/rapids-ai/hyper-parameter-optimization-with-optuna-and-rapids-467fc8189962
+2. Optuna Rapids: https://gist.github.com/Nanthini10/b59cb2634174a4a27f6f1711426a8d58#file-optuna_rapids-ipynb
+3. Dask Optuna for Hyperpaameter Optimization HPO: https://gist.github.com/Nanthini10/b59cb2634174a4a27f6f1711426a8d58
+4. A Conceptual Explanation of Bayesian Hyperparameter Optimization for Machine Learning: https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f
+5. Automated Machine Learning Hyperparameter Tuning in Python: https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a
+6. Hyperparameter TUning: https://towardsdatascience.com/hyperparameter-tuning-c5619e7e6624
+7. Conducting a Population Proportion Estimation Study(Binary Variable): https://towardsdatascience.com/how-to-make-your-model-awesome-with-optuna-b56d490368af
