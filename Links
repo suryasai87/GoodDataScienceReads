@@ -7,3 +7,20 @@
 7. Conducting a Population Proportion Estimation Study(Binary Variable): https://towardsdatascience.com/how-to-make-your-model-awesome-with-optuna-b56d490368af
 8. https://www.packtpub.com/product/the-supervised-learning-workshop-second-edition/9781800209046 - Blaine is co author of this workshop. 
 9. https://www.coursera.org/learn/machine-learning/home/welcome 
+===================================
+Links suggested by JOe
+"NiFi: automate database naming conventions+schemas"	
+"Link: https://medium.com/@abdelkrim.hadjidj/democratizing-nifi-record-processors-with-automatic-schemas-inference-4f2b2794c427\
+Link to screenshot of GUI: https://community.cloudera.com/t5/image/serverpage/image-id/27002i94212AB14827EC98/image-size/large?v=1.0&px=999"
+
+Monitoring data in airflow	https://www.rea-group.com/blog/watching-the-watcher/
+
+alerting & monitoring in airflow/grafana	"https://medium.com/unruly-engineering/quick-easy-alerting-for-apache-airflow-53c3f1ba2ca
+https://blog.gojekengineering.com/how-we-monitor-apache-airflow-in-production-210f9bff9e71"
+
+Steps
+Deploying to K8s w/ config
+Using AWS for storage
+Executing on Dask
+Deploying to Airflow
+LINK: https://docs.dagster.io/deploying/k8s
